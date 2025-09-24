@@ -4,6 +4,8 @@ NA 2025 Intro to Python Programming sources
 
 ## Hardware List (total cost ~$50)
 
+![RPi Pico Breadboard Setup](./img/rpiboard.jpg)
+
 - [Raspberry Pi Pico](https://www.amazon.com/dp/B08X7HN2VG)
 - [GeekPi Raspberry Pi Pico Breadboard Kit](https://www.amazon.com/dp/B093GXJ64J)
 - [SSD1306 OLED Display](https://www.amazon.com/dp/B09T6SJBV5)
